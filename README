@@ -1,0 +1,2 @@
+To start the ExpressionEngine migration, rename your index.php file in your Drupal root directory. Then rename the index_migrate.php file to index.php.
+For more information, go to: http://grasshopperpebbles.com/drupal/migrating-expressionengine-to-drupal-7/
